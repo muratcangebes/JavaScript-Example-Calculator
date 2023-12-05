@@ -16,8 +16,7 @@ Bu proje, basit bir JavaScript hesap makinesini içermektedir. Hesap makinesi te
 4. "=" butonuna tıklayarak hesaplamayı gerçekleştirin.
 
 ## Ekran Görüntüsü
-
-![Calculator Screenshot](screenshot.png)
+![js_hesap_makinesi](https://github.com/muratcangebes/JavaScript-Examples/assets/108350526/282a4af8-a611-4ea3-b260-547c7d92c021)
 
 ## Notlar
 
